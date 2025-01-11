@@ -1,67 +1,86 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+# 🌟 Jobyar Ahmed | Data Analyst & BI Developer 🚀  
 
-###
+![Profile Views](https://komarev.com/ghpvc/?username=jobyar-ahmed&color=blue&style=flat-square)  
+![GitHub Followers](https://img.shields.io/github/followers/jobyar-ahmed?label=Follow%20Me&style=social)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/jobyar-ahmed)  
+[![Email Me](https://img.shields.io/badge/Email-JobyarAhmed@domain.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@domain.com)
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+---
 
-###
+### 👋 About Me  
+Hi! I am **Jobyar Ahmed**, a passionate **Data Analyst** and **Business Intelligence Developer** who enjoys turning data into actionable insights. I have experience working with Power BI, Excel, and SQL to create stunning dashboards and reports that empower business decisions.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+- 🎯 Focus Areas: **Data Visualization**, **Business Intelligence**, and **Data Analytics**  
+- 📍 Location: **Bangladesh**  
+- 🛠️ Open to Freelance and Collaboration Opportunities  
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+### 🔧 Tools & Skills  
 
-###
+#### **📊 Data Analytics Tools**  
+![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=Power-BI&logoColor=black)  
+![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square&logo=Microsoft-Excel&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=MySQL&logoColor=white)  
 
-<h3 align="left">👩‍💻  About Me</h3>
+#### **🔍 Analytics Techniques**  
+- Data Cleaning  
+- Statistical Analysis  
+- Dashboard Development  
+- Data Modeling  
 
-###
+#### **🧑‍💻 Languages**  
+![SQL](https://img.shields.io/badge/-SQL-lightblue?style=flat-square&logo=PostgreSQL&logoColor=white)  
+![DAX](https://img.shields.io/badge/-DAX-green?style=flat-square&logo=Power-BI&logoColor=white)  
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+---
 
-###
+### 🚀 My Featured Projects  
 
-<h3 align="left">🛠 Language and tools</h3>
+#### 1️⃣ **FastBD Dashboard** (Power BI)  
+- **Description**: A sales analytics dashboard for **FastBD**, a last-mile delivery app.  
+- **Highlights**:  
+  - 💰 **$1.2M Total Sales** analyzed  
+  - 📈 Outlets segmented by location and performance  
+  - 🎯 Visualized sales patterns using KPIs, charts, and custom filters  
+- **Tools Used**:  
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=Power-BI&logoColor=black)  
+- ![FastBD Screenshot](./images/fastbd_dashboard.png)
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+#### 2️⃣ **Data Professional Survey Breakdown** (Power BI)  
+- **Description**: Survey dashboard for professionals in the data industry  
+- **Highlights**:  
+  - 💼 **630 Survey Respondents** analyzed  
+  - 💡 Insights into programming language preferences, salary trends, and work-life balance  
+  - 🛠️ Advanced DAX formulas for metrics calculation  
+- **Tools Used**:  
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=Power-BI&logoColor=black)  
+- ![Survey Screenshot](./images/data_professional_survey.png)
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+#### 3️⃣ **Bike Sales Dashboard** (Excel)  
+- **Description**: A bike sales performance tracker dashboard built in Excel.  
+- **Highlights**:  
+  - 🚴 Annual and Monthly sales trends by category  
+  - 📊 Excel pivot tables and conditional formatting for visual emphasis  
+- **Tools Used**:  
+  ![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square&logo=Microsoft-Excel&logoColor=white)
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+### 📫 Contact Me  
+📧 **Email**: [JobyarAhmed@domain.com](mailto:your-email@domain.com)  
+🌐 **LinkedIn**: [linkedin.com/in/jobyar-ahmed](https://linkedin.com/in/jobyar-ahmed)  
 
-###
+---
+
+### 🏆 GitHub Stats  
+![Jobyar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jobyar-ahmed&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jobyar-ahmed&layout=compact&theme=radical)  
+
+---
+
+Feel free to explore my projects and reach out to collaborate!
